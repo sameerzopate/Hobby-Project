@@ -1,0 +1,25 @@
+.displaytodos{
+    background: #ff00cc; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ff00cc, #333399); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff00cc, #333399);
+    height: 100vh;
+
+}
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.all-Button{
+    background-color: rgb(23, 17, 116);
+    color: ivory;
+    font-family: sans-serif;
+    font-weight: 200;
+    border: none;
+    border-radius: 9px;
+    width: 148px;
+    height: 47px;
+    margin-top: 21px;
+}
+.all-Button:hover{
+    border: 1px solid white;
+}

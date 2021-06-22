@@ -1,0 +1,10 @@
+.home{
+    background: #ff00cc; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ff00cc, #333399); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff00cc, #333399);    
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
